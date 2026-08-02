@@ -83,7 +83,7 @@ This project was developed as a personal portfolio project to improve my back-en
 
 ### Admin Dashboard
 
-![Admin Dashboard](Coffee/Photos/Admin-dashboard.png)
+![Admin Dashboard](Coffee/Photos/Admin-dashboard.jpg)
 
 ---
 
