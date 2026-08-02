@@ -43,63 +43,53 @@ This project was developed as a personal portfolio project to improve my back-en
 
 ## 📸 Screenshots
 
-### Home Page
+### Home Page and Products
 
 ![Home](Coffee/Photos/home.png)
 
 ---
 
-### Products
-
-![Products](Coffee/Photos/products.png)
-
----
 
 ### Product Details
 
-![Product Details](Coffee/Photos/product-detail.png)
+![Product Details](Coffee/Photos/Product-detail.png)
 
 ---
 
 ### Shopping Cart
 
-![Cart](Coffee/Photos/cart.png)
+![Cart](Coffee/Photos/Cart.png)
 
 ---
 
 ### Login
 
-![Login](Coffee/Photos/login.png)
+![Login](Coffee/Photos/Login.png)
 
 ---
 
 ### Register
 
-![Register](Coffee/Photos/register.png)
+![Register](Coffee/Photos/Register.png)
 
 ---
 
 ### User Profile
 
-![Profile](Coffee/Photos/profile.png)
+![Profile](Coffee/Photos/Profile.png)
 
 ---
 
-### My Orders
-
-![Orders](Coffee/Photos/orders.png)
-
----
 
 ### Admin Dashboard
 
-![Admin Dashboard](Coffee/Photos/admin-dashboard.png)
+![Admin Dashboard](Coffee/Photos/Admin-dashboard.png)
 
 ---
 
 ### Product Management
 
-![Product Management](Coffee/Photos/admin-products.png)
+![Product Management](Coffee/Photos/Admin-products.png)
 
 ---
 
